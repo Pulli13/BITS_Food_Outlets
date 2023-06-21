@@ -1,5 +1,5 @@
 # BITS_Food_Outlets
-I made this project using Java, JSP, JDBC and Tomcat Server
+I am making this project using Java, JSP, JDBC and Tomcat Server
 
 You first need to install and configure following requirements:
 1.Java Development Kit (JDK): You need to have JDK installed on your system in order to compile and run Java code, including JSP pages. You can download the latest version of JDK from the Oracle website.
